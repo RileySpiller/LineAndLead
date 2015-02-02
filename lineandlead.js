@@ -1,6 +1,5 @@
+window.onload = function(){
 
-$(document).ready(function(){
+	$("article > div > div > aside.col-4").append("--");
 
-	$("article > div > div > aside.col-4").append("Riley was here");
-
-});
+};
